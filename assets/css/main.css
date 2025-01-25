@@ -785,6 +785,10 @@ section,
     font-size: 2rem;
   }
 }
+.hero {
+  padding-top: 100px;
+}
+
 
 .hero .company-badge {
   display: inline-flex;
@@ -2339,11 +2343,6 @@ section,
   color: var(--accent-color);
 }
 
-@media (max-width: 768px) {
-  #map {
-      height: 200px; /* Уменьшите высоту карты для мобильных устройств */
-  }
-}
 
 /*--------------------------------------------------------------
 # Starter Section Section
